@@ -12,7 +12,7 @@ import os
 import re
 import sys
 from scapy.all import *
-#########   >>>>>>>>>>> written by imcyber0wl on github. 
+
 exitflag=0
 img_path=os.getcwd()
 
