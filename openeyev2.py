@@ -1,4 +1,4 @@
-#########   >>>>>>>>>>> written by imcyber0wl on github. 
+#########   >>>>>>>>>>> written by imcyber0wl on github.  Py 3.10.7
 import tkinter as tk
 from tkinter import ttk
 from tkinter import *
